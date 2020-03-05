@@ -1,0 +1,3 @@
+C:/Users/some/Desktop/PRG/Sorts/cmake-build-debug/CMakeFiles/Sorts.dir
+C:/Users/some/Desktop/PRG/Sorts/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/some/Desktop/PRG/Sorts/cmake-build-debug/CMakeFiles/rebuild_cache.dir
